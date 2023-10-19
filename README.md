@@ -1,5 +1,5 @@
-# Flask DDD
-Flask DDD is boilerplate for DDD with flask.
+# FastApi DDD
+FastApi DDD is relatively simple boilerplate for DDD with FastApi.
 
 
 ## Project Structure
@@ -12,14 +12,9 @@ Flask DDD is boilerplate for DDD with flask.
 
 
 ## Library Defaults
-pip install Flask Flask-Injector Flask-SQLAlchemy mysqlclient
+pip install mysqlclient
 
 - `pipreqs`: For managing project dependencies.
-- `Flask-Injector`: For dependency injection.
-- `mypy`: For type checking.
-- `Flask`: flask.
-- `Flask-SQLAlchemy`: ORM.
-- `mysqlclient`: mysql.
 
 
 ## Getting Started
@@ -41,3 +36,5 @@ https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice
 
 ### Note
 For hierarchical DI you can include the modules in each layer.
+
+# ON - Windows make sure to install the 

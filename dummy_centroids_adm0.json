@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "adm0_code": 140,
+    "adm0_name": "Latvia",
+    "longitude": 24.9313792700,
+    "latitude": 56.8541795500
+  },
+  {
+    "Id": 2,
+    "adm0_code": 142,
+    "adm0_name": "Lesotho",
+    "longitude": 28.2536220400,
+    "latitude": -29.5804167200
+  },
+  {
+    "Id": 3,
+    "adm0_code": 145,
+    "adm0_name": "Libya",
+    "longitude": 18.0352089500,
+    "latitude": 27.0238170800
+  },
+  {
+    "Id": 4,
+    "adm0_code": 146,
+    "adm0_name": "Liechtenstein",
+    "longitude": 9.5540186980,
+    "latitude": 47.1451126500
+  }
+]

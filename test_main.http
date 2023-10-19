@@ -1,0 +1,33 @@
+# Test your FastAPI endpoints
+
+### check you current environment
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+### say hello to John Doe
+
+GET http://127.0.0.1:8000/hello/John Doe
+Accept: application/json
+
+### code demonstrates functional programming
+
+GET http://127.0.0.1:8000/orchestrator/functional
+Accept: application/json
+
+### gets todo data from an API
+
+GET http://127.0.0.1:8000/orchestrator/api
+Accept: application/json
+
+### gets user data from a db
+
+GET http://127.0.0.1:8000/orchestrator/db
+Accept: application/json
+
+### gets static product data
+
+GET http://127.0.0.1:8000/products
+Accept: application/json
+
+###
